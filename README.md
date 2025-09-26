@@ -9,7 +9,7 @@ This project classifies butterfly images divided into 75 classes. <br>
 - In data augmentation phase, six sample generated from original images and both train and generated images are used in model training.<br>
 - SparseCategoricalCrossentropy used for multi-class classification and class names are initially string data type then I have encoded them to integer by using Label Encoder. <br>
 - Activation function is softmax and optimization algorithm is adam which is highly robust and succesful.<br>
-- **Train : accuracy: 0.8988 - loss: 0.6501** <br>
+- **Train - accuracy: 0.8988 - loss: 0.6501** <br>
 - **Validation - accuracy: 0.8175 - loss: 0.9534** <br>
 - **Test - accuracy: 0.8095 - loss: 0.9643** <br>
 ### Future Work
