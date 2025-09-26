@@ -11,3 +11,4 @@ SparseCategoricalCrossentropy used for multi-class classification and class name
 activation function is softmax and optimization algorithm is adam which is highly robust and succesful.<br>
 ### Future Work
 Transfer Learning can be used. <br>
+I would have used it, but I couldn’t meet the deadline.
